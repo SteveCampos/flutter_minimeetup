@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Screen Record
+
+![alt text](https://raw.githubusercontent.com/SteveCampos/flutter_minimeetup/master/screen_record.mov)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
